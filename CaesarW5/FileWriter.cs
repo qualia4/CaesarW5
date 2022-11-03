@@ -1,6 +1,6 @@
 namespace CaesarW5;
 
-public class FileWriter
+public class FileWriter : Writer
 {
     public void Write(char[] text, string path)
     {

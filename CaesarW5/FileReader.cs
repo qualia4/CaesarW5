@@ -1,6 +1,6 @@
 namespace CaesarW5;
 
-public class FileReader
+public class FileReader : Reader
 {
     public char[] Read(string path)
     {
