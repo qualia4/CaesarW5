@@ -1,6 +1,6 @@
 namespace CaesarW5;
 
-public interface Reader
+public interface IReader
 {
     public char[] Read(string path);
 }

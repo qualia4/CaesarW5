@@ -1,6 +1,6 @@
 namespace CaesarW5;
 
-public interface Writer
+public interface IWriter
 {
     public void Write(char[] text, string path);
 }
